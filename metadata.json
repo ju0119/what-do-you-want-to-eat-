@@ -1,0 +1,7 @@
+{
+  "name": "今天吃什麼？ (What to Eat Today?)",
+  "description": "An intelligent restaurant recommender that uses your current location to suggest great places to eat nearby, powered by the Gemini API.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
